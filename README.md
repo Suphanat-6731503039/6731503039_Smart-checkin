@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Smart Class Check-in & Learning Reflection App
 
@@ -31,3 +32,6 @@ flutter build web
 
 firebase init hosting
 firebase deploy
+=======
+# 6731503039_Smart-checkin
+>>>>>>> 1b409f8b7c54f9c36dcbda6e5a8525aff3087438
