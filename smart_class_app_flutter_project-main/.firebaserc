@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "smart-class-app-2b0e8",
+    "firebase deploy": "smart-class-app-2b0e8"
+  },
+  "targets": {},
+  "etags": {}
+}
